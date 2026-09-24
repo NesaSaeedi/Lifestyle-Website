@@ -5,7 +5,6 @@ I designed and developed a modern **Lifestyle Website** with a clean and visuall
 ---
 
 🌐 **Live Demo:**
-
 🔗https://nesasaeedi.github.io/Lifestyle-Website/
 ---
 
